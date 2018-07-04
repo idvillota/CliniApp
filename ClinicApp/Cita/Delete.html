@@ -1,0 +1,29 @@
+﻿<h3>
+    Are you want to sure to delete this record?
+</h3>
+<hr />
+<form role="form" style="max-width: 500px;">
+    <strong class="error">{{ error }}</strong>
+    <div class="form-group">
+        <label for="DocumentNumber">
+            Document Number
+        </label>
+        <input type="text" class="form-control" id="DocumentNumber" ng-model="DocumentNumber" />
+    </div>
+    <div class="form-group">
+        <label for="firstname">
+            First Name
+        </label>
+        <input type="text" class="form-control" id="firstname" ng-model="FirstName" />
+    </div>
+    <div class="form-group">
+        <label for="lastname">
+            Last Name:
+        </label>
+        <input type="text" class="form-control" id="lastname" ng-model="LastName" />
+    </div>
+    <a href="#/list" class="btn btn-info">Back to List</a>
+    <button type="submit" class="btn btn-primary" ng-click="delete()">
+        Delete
+    </button>
+</form>  

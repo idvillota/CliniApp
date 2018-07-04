@@ -1,0 +1,48 @@
+﻿<h3>
+    {{ title }}
+</h3>
+<hr />
+<form role="form" style="max-width: 500px;">
+    <strong class="error">{{ error }}</strong>
+    <input type="hidden" id="Id" ng-model="Id" />
+    <div class="form-group">
+        <label for="CitaType">
+            Cita Type
+        </label>
+        <select class="form-control" id="CitaType" ng-model="CitaType" ng-options="y.Name for (x, y) in CitaTypes">
+            <option value="">-- Select Cita Type --</option>
+        </select>  
+    </div>
+    <div class="form-group">
+        <label for="Doctor">
+            Doctor
+        </label>
+        <select class="form-control" id="Doctor" ng-model="Doctor" ng-options="y.FirstName for (x, y) in Doctors">
+            <option value="">-- Select Doctor --</option>
+        </select>  
+    </div>
+    <div class="form-group">
+        <label for="Status">
+            Status
+        </label>
+        <input type="text" class="form-control" id="Status" ng-model="Status" />
+    </div>
+    <div class="form-group">
+        <label for="Date">
+            Date
+        </label>
+        <input type="datetime" class="form-control" id="Date" ng-model="Date" />
+    </div>
+    <div class="form-group">
+        <label for="Patient">
+            Patient
+        </label>
+        <select class="form-control" id="Patient" ng-model="Patient" ng-options="y.FirstName for (x, y) in Patients">
+            <option value="">-- Select Patient --</option>
+        </select>  
+    </div>
+    <a href="#/list" class="btn btn-info">Back to List</a>
+    <button type="submit" class="btn btn-default" ng-click="save()">
+        Submit
+    </button>
+</form>  
