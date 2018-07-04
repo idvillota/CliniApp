@@ -1,0 +1,14 @@
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\ClinicApp.Data.dll.config
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\ClinicApp.Data.dll
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\ClinicApp.Data.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\EntityFramework.dll
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\EntityFramework.xml
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\obj\Debug\ClinicApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\obj\Debug\ClinicApp.Data.dll
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\obj\Debug\ClinicApp.Data.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\ClinicAcc.Model.dll
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\bin\Debug\ClinicAcc.Model.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\obj\Debug\ClinicApp.Data.Migrations.InitialMigration.resources
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicApp.Data\obj\Debug\ClinicApp.Data.csproj.GenerateResource.Cache
