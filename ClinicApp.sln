@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicApp", "ClinicApp\ClinicApp.csproj", "{D60784D1-F916-46F6-BAA5-2D2DA45D99EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicApp.Tests", "ClinicApp.Tests\ClinicApp.Tests.csproj", "{190A984D-EAC2-4FA9-9DA5-691D05525491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicApp.Data", "ClinicApp.Data\ClinicApp.Data.csproj", "{FD41A49E-BD38-482E-B1C0-29632A3C95C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicAcc.Model", "ClinicAcc.Model\ClinicAcc.Model.csproj", "{3A0710E2-579F-4358-A48D-F8D408510952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60784D1-F916-46F6-BAA5-2D2DA45D99EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60784D1-F916-46F6-BAA5-2D2DA45D99EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60784D1-F916-46F6-BAA5-2D2DA45D99EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60784D1-F916-46F6-BAA5-2D2DA45D99EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190A984D-EAC2-4FA9-9DA5-691D05525491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190A984D-EAC2-4FA9-9DA5-691D05525491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190A984D-EAC2-4FA9-9DA5-691D05525491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190A984D-EAC2-4FA9-9DA5-691D05525491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD41A49E-BD38-482E-B1C0-29632A3C95C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD41A49E-BD38-482E-B1C0-29632A3C95C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD41A49E-BD38-482E-B1C0-29632A3C95C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD41A49E-BD38-482E-B1C0-29632A3C95C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0710E2-579F-4358-A48D-F8D408510952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0710E2-579F-4358-A48D-F8D408510952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0710E2-579F-4358-A48D-F8D408510952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0710E2-579F-4358-A48D-F8D408510952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://idvillota.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClinicApp\\ClinicApp.csproj
+		SccProjectName1 = ClinicApp
+		SccLocalPath1 = ClinicApp
+		SccProjectUniqueName2 = ClinicApp.Tests\\ClinicApp.Tests.csproj
+		SccProjectName2 = ClinicApp.Tests
+		SccLocalPath2 = ClinicApp.Tests
+		SccProjectUniqueName3 = ClinicApp.Data\\ClinicApp.Data.csproj
+		SccProjectName3 = ClinicApp.Data
+		SccLocalPath3 = ClinicApp.Data
+		SccProjectUniqueName4 = ClinicAcc.Model\\ClinicAcc.Model.csproj
+		SccProjectName4 = ClinicAcc.Model
+		SccLocalPath4 = ClinicAcc.Model
+	EndGlobalSection
+EndGlobal
