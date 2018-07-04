@@ -1,0 +1,5 @@
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicAcc.Model\bin\Debug\ClinicAcc.Model.dll
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicAcc.Model\bin\Debug\ClinicAcc.Model.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicAcc.Model\obj\Debug\ClinicAcc.Model.dll
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicAcc.Model\obj\Debug\ClinicAcc.Model.pdb
+C:\Users\ivan\Source\Workspaces\IdvTeamProject\ClinicApp\ClinicAcc.Model\obj\Debug\ClinicAcc.Model.csprojResolveAssemblyReference.cache
